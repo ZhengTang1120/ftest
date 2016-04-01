@@ -483,7 +483,6 @@
 14460,0
 -1
 14503,0
-14503,1
 14509,0
 -1
 14600,0
@@ -549,4 +548,4 @@
 -1
 15837,0
 -1
-{"entities": {"http://www.geonames.org/3449176": {"value": "Sao Francisco", "candwins": [{"start": 8, "score": 0.8461538461538461, "end": 19}]}, "http://www.geonames.org/3837675": {"value": "San Francisco", "candwins": [{"start": 8, "score": 1.0, "end": 19}]}, "http://www.geonames.org/5378538": {"value": "Oakland", "candwins": [{"start": 0, "score": 1.0, "end": 5}, {"start": 1, "score": 0.8333333333333334, "end": 5}]}}, "document": {"id": "123", "value": "Oakland San Francisco"}}
+[[2769, 8, 19, 0.8461538461538461], [7672, 0, 5, 1.0], [7672, 1, 5, 0.8333333333333334]]
