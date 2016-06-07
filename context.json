@@ -1,0 +1,78 @@
+{
+  "@context": {
+    "a": "@type",
+    "airspacesegment": {
+      "@id": "http://scharp.usc.isi.edu/ontology/airspacesegment"
+    },
+    "startpoint": {
+      "@id": "http://scharp.usc.isi.edu/ontology/startpoint"
+    },
+    "latitude": {
+      "@id": "http://scharp.usc.isi.edu/ontology/latitude"
+    },
+    "airspaceSegmentKey": {
+      "@id": "http://scharp.usc.isi.edu/ontology/airspaceSegmentKey"
+    },
+    "airspaceKey": {
+      "@id": "http://scharp.usc.isi.edu/ontology/airspaceKey"
+    },
+    "Point": {
+      "@type": "@id",
+      "@id": "http://scharp.usc.isi.edu/ontology/Point"
+    },
+    "maxaltitude": {
+      "@id": "http://scharp.usc.isi.edu/ontology/maxaltitude"
+    },
+    "uri": "@id",
+    "Airspace": {
+      "@type": "@id",
+      "@id": "http://scharp.usc.isi.edu/ontology/Airspace"
+    },
+    "endpoint": {
+      "@id": "http://scharp.usc.isi.edu/ontology/endpoint"
+    },
+    "AirspaceSegment": {
+      "@type": "@id",
+      "@id": "http://scharp.usc.isi.edu/ontology/AirspaceSegment"
+    },
+    "width": {
+      "@id": "http://scharp.usc.isi.edu/ontology/width"
+    },
+    "minaltitude": {
+      "@id": "http://scharp.usc.isi.edu/ontology/minaltitude"
+    },
+    "longitude": {
+      "@id": "http://scharp.usc.isi.edu/ontology/longitude"
+    },
+    "airspacePointKey": {
+      "@id": "http://scharp.usc.isi.edu/ontology/airspacePointKey"
+    },
+    "airspacepoint": {
+      "@id": "http://scharp.usc.isi.edu/ontology/airspacepoint"
+    },
+    "ceiling": {
+      "@id": "http://scharp.usc.isi.edu/ontology/ceiling"
+    },
+    "numofpoints": {
+      "@id": "http://scharp.usc.isi.edu/ontology/numofpoints"
+    },
+    "shape": {
+      "@id": "http://scharp.usc.isi.edu/ontology/shape"
+    },
+    "usage": {
+      "@id": "http://scharp.usc.isi.edu/ontology/usage"
+    },
+    "areatype": {
+      "@id": "http://scharp.usc.isi.edu/ontology/areatype"
+    },
+    "airspaceId": {
+      "@id": "http://scharp.usc.isi.edu/ontology/airspaceId"
+    },
+    "floor": {
+      "@id": "http://scharp.usc.isi.edu/ontology/floor"
+    },
+    "type": {
+      "@id": "http://scharp.usc.isi.edu/ontology/type"
+    }
+  }
+}
