@@ -13,7 +13,7 @@
   "type": {},
   "airspaceKey": {},
   "airspacesegment": {
-    "@type": "AirspaceSegment",
+    "@type": "AirspacePoint
     "@explicit": true,
     "uri": {},
     "a": {},
