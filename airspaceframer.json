@@ -1,1 +1,37 @@
+{
+  "@type": "Airspace",
+  "@explicit": true,
+  "a": {},
+  "uri": {},
+  "ceiling": {},
+  "areatype": {},
+  "airspaceId": {},
+  "floor": {},
+  "shape": {},
+  "numofpoints": {},
+  "usage": {},
+  "type": {},
+  "airspaceKey": {},
+  "airspacesegment": {
+    "@type": "AirspaceSegment",
+    "@explicit": true,
+    "uri": {},
+    "a": {},
+    "endpoint": {},
+    "minaltitude":{},
+    "width":{},
+    "airspaceSegmentKey":{},
+    "startpoint":{},
+    "maxaltitude":{}
+  },
+  "airspacepoint": {
+    "@type": "AirspaceSegment",
+    "@explicit": true,
+    "uri": {},
+    "a": {},
+    "longitude": {},
+    "latitude":{},
+    "airspacePointKey":{}
+  }
+}
 
