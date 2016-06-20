@@ -24,7 +24,7 @@
     "startpoint":{},
     "maxaltitude":{}
   },
-  "airspacepoint": [{
+  "airspacepoint": {
     "@type": "Point",
     "@explicit": true,
     "uri": {},
@@ -32,6 +32,6 @@
     "longitude": {},
     "latitude":{},
     "airspacePointKey":{}
-  }]
+  }
 }
 
