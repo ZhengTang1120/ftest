@@ -1,0 +1,35 @@
+{
+  "@type": "Message",
+  "@explicit": true,
+  "timeStamp": {},
+  "source": {},
+  "a": {},
+  "attr": {
+    "@type": "Attributes",
+    "@explicit": true,
+    "course": {},
+    "speed": {},
+    "location": {
+      "@type": "Point",
+      "@explicit": true,
+      "altitude": {},
+      "a": {},
+      "longitude": {},
+      "latitude": {}
+    },
+    "strength": {},
+    "a": {},
+    "callsign": {},
+    "controlChannel": {},
+    "airActivity": {}
+  },
+  "object": {
+    "@type": "AirUnit",
+    "@explicit": true,
+    "a": {},
+    "identifier": {},
+    "uri": {}
+  },
+  "type": {},
+  "uri": {}
+}
