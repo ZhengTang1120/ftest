@@ -1,1 +1,29 @@
 
+{
+  "@type": "Target",
+  "@explicit": true,
+  "a": {},
+  "uri": {},
+  "TargetName": {},
+  "Damage": {},
+  "Functionable": {},
+  "targetPriority": {},
+  "countryCode": {},
+  "targetId": {},
+  "Priority": {},
+  "locatein": {
+    "@type": "Point",
+    "@explicit": true,
+    "a": {},
+    "longitude": {},
+    "latitude":{}
+  },
+  "jdpi": {
+    "@type": "JDPI",
+    "@explicit": true,
+    "a": {},
+    "uri": {},
+    "jdpiName": {},
+    "jdpiId":{}
+  }
+}
