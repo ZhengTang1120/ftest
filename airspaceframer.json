@@ -17,11 +17,23 @@
     "@explicit": true,
     "uri": {},
     "a": {},
-    "endpoint": {},
+    "endpoint": {
+      "@type": "Point",
+    "@explicit": true,
+    "a": {},
+    "longitude": {},
+    "latitude":{}
+    },
     "minaltitude":{},
     "width":{},
     "airspaceSegmentKey":{},
-    "startpoint":{},
+    "startpoint":{
+      "@type": "Point",
+    "@explicit": true,
+    "a": {},
+    "longitude": {},
+    "latitude":{}
+    },
     "maxaltitude":{}
   },
   "airspacepoint": {
