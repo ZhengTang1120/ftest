@@ -8,7 +8,6 @@
       "@id": "http://scharp.usc.isi.edu/ontology/startpoint"
     },
     "latitude": {
-        "@type": "xsd:float",
       "@id": "http://scharp.usc.isi.edu/ontology/latitude"
     },
     "airspaceSegmentKey": {
@@ -22,7 +21,6 @@
       "@id": "http://scharp.usc.isi.edu/ontology/Point"
     },
     "maxaltitude": {
-        "@type": "xsd:float",
       "@id": "http://scharp.usc.isi.edu/ontology/maxaltitude"
     },
     "uri": "@id",
@@ -41,11 +39,9 @@
       "@id": "http://scharp.usc.isi.edu/ontology/width"
     },
     "minaltitude": {
-        "@type": "xsd:float",
       "@id": "http://scharp.usc.isi.edu/ontology/minaltitude"
     },
     "longitude": {
-        "@type": "xsd:float",
       "@id": "http://scharp.usc.isi.edu/ontology/longitude"
     },
     "airspacePointKey": {
@@ -80,7 +76,6 @@
     },
      "center": {"@id": "http://scharp.usc.isi.edu/ontology/center"},
       "Range": {
-        "@type": "xsd:integer",
         "@id": "http://scharp.usc.isi.edu/ontology/Range"
     }
   }
