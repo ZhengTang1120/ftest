@@ -75,7 +75,7 @@
       "@id": "http://scharp.usc.isi.edu/ontology/type"
     },
      "center": {"@id": "http://scharp.usc.isi.edu/ontology/center"},
-      "Range": {
+      "range": {
         "@id": "http://scharp.usc.isi.edu/ontology/Range"
     }
   }
