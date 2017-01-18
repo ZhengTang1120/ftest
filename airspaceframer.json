@@ -3,6 +3,14 @@
   "@explicit": true,
   "a": {},
   "uri": {},
+  "center": {
+    "@type": "Point",
+    "@explicit": true,
+    "a": {},
+    "longitude": {},
+    "latitude":{}
+  },
+  "Range": {},
   "ceiling": {},
   "areatype": {},
   "airspaceId": {},
